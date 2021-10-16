@@ -1,10 +1,11 @@
 # Profit-Analysis-Project-using-Tableau
 This is the Profit Analysis Project using Tableau. This project will give you a feel of how data analysis projects are executed in big companies. Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. we will plug MySQL database with tableau. we will directly use mysql database. We will do profit analysis.
+
 You can See the [Profit Analysis Project](https://public.tableau.com/views/ProfitAnalysis_16340435978980/ProfitAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Instructions to setup mysql on your local computer
-1.Follow step in this Documentation to install mysql on your local computer [MySQL Installation Guide](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
+1. Follow step in this Documentation to install mysql on your local computer [MySQL Installation Guide](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
 
-2.SQL database dump is in db_dump_version_2.sql file above. Download [db_dump_version_2.sql](db_dump_version_2.sql) file to your local computer and import it .
+2. SQL database dump is in db_dump_version_2.sql file above. Download [db_dump_version_2.sql](db_dump_version_2.sql) file to your local computer and import it .
 
 ## Instructions: How to connect Tableau to a MySQL database and set up the data source.
 This article describes how to connect Tableau to a MySQL database and set up the data source.[Make the connection and set up the data source](https://help.tableau.com/current/pro/desktop/en-us/examples_mysql.ht)
