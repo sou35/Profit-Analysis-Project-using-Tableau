@@ -4,7 +4,7 @@ This is the Profit Analysis Project using Tableau. This project will give you a 
 ## Instructions to setup mysql on your local computer
 1.Follow step in this Documentation to install mysql on your local computer [MySQL Installation Guide](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
 
-2.SQL database dump is in db_dump.sql file above. Download [db_dump.sql](db_dump.sql) file to your local computer and import it .
+2.SQL database dump is in db_dump_version_2.sql file above. Download [db_dump_version_2.sql](db_dump_version_2.sql) file to your local computer and import it .
 
 ## Data Analysis Using SQL
 ### Show all customer records
