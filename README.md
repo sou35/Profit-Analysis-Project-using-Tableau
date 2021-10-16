@@ -6,6 +6,9 @@ This is the Profit Analysis Project using Tableau. This project will give you a 
 
 2.SQL database dump is in db_dump_version_2.sql file above. Download [db_dump_version_2.sql](db_dump_version_2.sql) file to your local computer and import it .
 
+## Instructions: How to connect Tableau to a MySQL database and set up the data source.
+This article describes how to connect Tableau to a MySQL database and set up the data source.[Make the connection and set up the data source](https://help.tableau.com/current/pro/desktop/en-us/examples_mysql.ht)
+
 ## Data Analysis Using SQL
 ### Show all customer records
 ```
